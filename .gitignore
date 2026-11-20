@@ -1,0 +1,23 @@
+# Ambiente virtual e cache do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Segredos (chave da API do Gemini)
+.env
+.streamlit/secrets.toml
+
+# Banco local com usuários e histórico
+*.db
+
+# Dados e modelos gerados (pesados, recriados pelos scripts)
+data/
+models/
+reports/
+
+# Sistema e editores
+.DS_Store
+.vscode/
+.idea/

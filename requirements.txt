@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+shap
+lime
+streamlit
+reportlab
+optuna[metadata]
+joblib
+plotly
+pypdf
+google-generativeai
+python-dotenv
